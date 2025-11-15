@@ -17,9 +17,6 @@ tiff_path2 = os.path.join(out_path, "segmentation.tif")
 os.makedirs(os.path.dirname(tiff_path1), exist_ok=True)
 os.makedirs(os.path.dirname(tiff_path2), exist_ok=True)
 
-
-
-
 # Initializing params
 met_grid_list = []
 seg_list = []
