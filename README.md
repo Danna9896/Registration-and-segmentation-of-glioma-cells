@@ -1,0 +1,1 @@
+In this project as a part of the bachelor's degree we collaborated with Biochemical faculty in order to do segmantation of glioma cancer cells. I initially had to register the red cancerous channel with the blue healthy cells channel and once I did, denoise the red channel so only the cancerous cells stay and segment them using Chan-vese.
